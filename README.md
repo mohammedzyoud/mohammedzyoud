@@ -11,7 +11,7 @@ Motivated Software Engineer | Full-Stack Web Developer (JS, React, Node.js) | Pa
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
@@ -23,12 +23,13 @@ Motivated Software Engineer | Full-Stack Web Developer (JS, React, Node.js) | Pa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Other Skills
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4B0082?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-FF69B4?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1E90FF?style=for-the-badge)
+### Other
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F9A825?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ## 📂 Featured Project
 - [MediviseAI](https://github.com/Medivise-AI/Full-Project) – Intelligent medical platform for patient analysis and health guidance.  
@@ -39,11 +40,4 @@ Motivated Software Engineer | Full-Stack Web Developer (JS, React, Node.js) | Pa
     - Appointment and payment management  
     - Interactive dashboards for healthcare professionals  
 
-## 📫 Contact Me
-- **Email:** mohammedzyoud25@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mohammadzyoud02](https://www.linkedin.com/in/mohammadzyoud02/)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-
----
-
-⭐️ Feel free to explore my project and reach out!
+## 📫
