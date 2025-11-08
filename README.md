@@ -10,7 +10,7 @@ Motivated Software Engineer | Full-Stack Web Developer (JS, React, Node.js) | Pa
 - **Other:** Unit Testing, Data Structures, Problem Solving
 
 ## 📂 Featured Project
-- [MediviseAI](https://github.com/mohammedzyoud/mediviseai) – Intelligent medical platform for patient analysis and health guidance.  
+- [MediviseAI](https://github.com/Medivise-AI/Full-Project) – Intelligent medical platform for patient analysis and health guidance.  
   - **Built with:** Node.js, Express, PostgreSQL, React  
   - **Features:**  
     - Manage patients, doctors, and medical analyses  
