@@ -23,4 +23,28 @@ Motivated Software Engineer | Full-Stack Web Developer | Passionate about buildi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Ubuntu](https://img.sh)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)  
+
+**Other Skills:**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge) 
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F7DF1E?style=for-the-badge)  
+
+## 📂 Featured Project
+- [MediviseAI](https://github.com/Medivise-AI/Full-Project) – Intelligent medical platform for patient analysis and health guidance.  
+  - **Built with:** Node.js, Express, PostgreSQL, React  
+  - **Features:**  
+    - Manage patients, doctors, and medical analyses  
+    - AI-based diagnosis suggestions  
+    - Appointment and payment management  
+    - Interactive dashboards for healthcare professionals  
+
+## 📫 Contact Me
+- **Email:** mohammedzyoud25@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mohammadzyoud02](https://www.linkedin.com/in/mohammadzyoud02/)  
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+⭐️ Feel free to explore my project and reach out!
