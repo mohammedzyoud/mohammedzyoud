@@ -1,40 +1,76 @@
-# 👋 Hi, I’m Mohammed Zyoud
+<!-- Banner -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hi,%20I'm%20Mohammed%20Zyoud&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Motivated%20Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descSize=16&descAlignY=60" alt="Banner" />
 
-**Motivated Software Engineer | Full-Stack Web Developer**  
-I build efficient and user-friendly solutions, combining modern front-end design with robust back-end logic to create scalable applications.
+<p>
+I build efficient and user-friendly solutions, combining modern front-end design<br/>
+with robust back-end logic to create scalable applications.
+</p>
 
----
+<a href="mailto:mohammedzyoud25@gmail.com"><img src="https://img.shields.io/badge/Email-mohammedzyoud25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohammadzyoud02/"><img src="https://img.shields.io/badge/LinkedIn-MohammedZyoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-### Featured Tech
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40" height="40" alt="Node.js" /> <img src="https://img.icons8.com/color/200/express-js.png" width="40" height="40" alt="Express" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40" height="40" alt="Vitejs" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40" height="40" alt="Tailwind" />
+</div>
 
-### Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+<br/>
 
-### Tooling & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/github-logo-white.png" width="40" height="40" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" /> 
-<img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" height="40" alt="Ubuntu" />
+## 🛠️ Tech Stack
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Featured Tech</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tooling & Platforms</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" title="NPM" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu" />
+    </td>
+  </tr>
+</table>
 
-### 🔹 Recent Focus – Full Stack
+<br/>
 
-- **Frontend:** Interactive components, smooth motion, reusable hooks.  
-- **Backend:** Scalable APIs, database management, authentication.  
-- **DevOps:** Git/GitHub, automation, performance monitoring.
+## 🔹 Recent Focus – Full Stack
 
----
+| Area | What I work on |
+|:--|:--|
+| 🎨 **Frontend** | Interactive components, smooth motion, reusable hooks |
+| ⚙️ **Backend** | Scalable APIs, database management, authentication |
+| 🚀 **DevOps** | Git/GitHub, automation, performance monitoring |
 
-### ⚡ Quick Stats
+<br/>
 
-![Followers](https://img.shields.io/github/followers/MohammedZyoud?label=Followers&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/MohammedZyoud?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedZyoud&style=for-the-badge)
+## ⚡ Quick Stats
 
----
+<div align="center">
 
-### 📫 Contact Me
+![Followers](https://img.shields.io/github/followers/MohammedZyoud?label=Followers&style=for-the-badge&color=2c5364)
+![Stars](https://img.shields.io/github/stars/MohammedZyoud?style=for-the-badge&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedZyoud&style=for-the-badge&color=2c5364)
 
-[![Email](https://img.shields.io/badge/Email-mohammedzyoud25@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedzyoud25@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammedZyoud-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadzyoud02/)  
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="Footer" />
